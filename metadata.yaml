@@ -1,5 +1,8 @@
 _repo: The-City-Guard-A-History-of-Company-B-First-Regiment-Infantry-N-G-C-During-the-Sacremento-Cam__67904
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67904-h/images/cover.jpg
 creator:
   authors:
   - agent_name: California. Infantry. First Regiment. Company B
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '54506'
     url: http://www.gutenberg.org/2009/agents/54506
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67904#The-City-Guard-A-History-of-Company-B-First-Regiment-Infantry-N-G-C-During-the-Sacremento-Cam_
 gutenberg_issued: '2022-04-22'
 identifiers:
   gutenberg: '67904'
